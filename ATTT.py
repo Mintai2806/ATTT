@@ -58,7 +58,7 @@ def encrypt_text():
 
 # Tạo cửa sổ giao diện
 root = tk.Tk()
-root.title("ANHHUYCLC")
+root.title("")
 
 # Tạo và định vị các widget với kích thước mở rộng
 keyword_label = tk.Label(root, text="NHẬP KEY:")
